@@ -1,0 +1,38 @@
+{
+  "name": "Bite",
+  "identifier": "com.alexcurrano.bite.source",
+  "subtitle": "Alex's calorie tracker",
+  "iconURL": "https://raw.githubusercontent.com/acurra3398/bite-updates/main/icon.png",
+  "tintColor": "C6F432",
+  "apps": [
+    {
+      "name": "Bite",
+      "bundleIdentifier": "com.alexcurrano.bite",
+      "developerName": "Alex",
+      "subtitle": "Calories without the subscription",
+      "localizedDescription": "Search, scan a barcode, or snap your plate. Bitey keeps you company.",
+      "iconURL": "https://raw.githubusercontent.com/acurra3398/bite-updates/main/icon.png",
+      "tintColor": "C6F432",
+      "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "202610051947",
+          "date": "2026-10-05T23:47:18Z",
+          "localizedDescription": "Your food log now stays put through updates, with an automatic backup in your iPhone's Keychain. Days that seemed to vanish after the widget update come back. Plus the playful redesign, Bitey, and macro rings.",
+          "downloadURL": "https://github.com/acurra3398/bite-updates/releases/download/v1.1/Bite.ipa",
+          "size": 808284,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Bite uses the camera to scan barcodes and photograph your meals."
+        }
+      }
+    }
+  ],
+  "news": []
+}
