@@ -15,6 +15,15 @@
       "tintColor": "C6F432",
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "202610052003",
+          "date": "2026-10-06T00:03:54Z",
+          "localizedDescription": "Tap any food to edit grams, time, or day. Quick add calories. Add food to past days from History. Save meals and log them in one tap. Tap + on the widget to log without opening Bite. History gets a 7-day chart, weekly average, and streaks.",
+          "downloadURL": "https://github.com/acurra3398/bite-updates/releases/download/v1.2/Bite.ipa",
+          "size": 959416,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "202610051947",
           "date": "2026-10-05T23:47:18Z",
